@@ -16,6 +16,21 @@ Data Visualization - PowerBI
 6. HOW does the gender distribution vary across departments and job title?
 7. What is the distribution of job titles across the company?
 8. which department has the highest turnover rate?
-9. what is the distribution of employees across locations by city and state?
-10. Employee by state
-11. Employee count change over time by year
+9. Employee by state
+10. Employee count change over time by year
+
+## Summary of Findings
+
+• The workforce shows a higher proportion of male employees compared to female.
+• The predominant race/ethnicity among employees is White.
+• Headquarters-based employees outnumber those working remotely.
+• The average length of employment is approximately 8 years, indicating strong retention and organizational      stability.
+• The most common age range among employees is 33–42 years, representing a mid-career workforce.
+• The Engineering department has the highest representation of women, highlighting gender diversity in           technical roles.
+• The Auditing department records the highest turnover rate, suggesting potential areas for retention            improvement.
+• Ohio hosts the largest concentration of employees, making it the company’s primary employment hub.
+• The majority of employee start dates fall between 2020 and 2023, reflecting recent growth and expansion.
+
+Conclusions: These insights provide a clear overview of workforce composition and trends, supporting strategic decisions in talent management, diversity initiatives, and organizational planning.
+
+## Limitations 
