@@ -3,12 +3,11 @@ Project: HR Analytics Dashboard
 Author: Daniel Mercedes
 Database: PostgreSQL
 Description: Data model, cleaning, and analytical queries for Power BI dashboard.
-Date: 2026-06-09
 */
 
--- =====================================
---  DATA CLEANING
--- =====================================
+-- ==================================================================================
+--                                   DATA CLEANING
+-- ==================================================================================
 
 'Create dataset copy'
 
@@ -79,9 +78,9 @@ set age = DATE_PART('year', age(CURRENT_DATE, birthdate));
 
 SELECT birthdate, age FROM hr_2;
 
--- =====================================
---  VIEWS FOR POWER BI
--- =====================================
+-- ====================================================================================
+--                                          QUESTIONS FOR POWER BI
+-- ====================================================================================
 
 ---1. What is the gender breakdown of employees in the company?
 
