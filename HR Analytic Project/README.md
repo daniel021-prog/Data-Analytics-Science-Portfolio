@@ -1,6 +1,6 @@
 ## INFO 
 
-Data - HR Data with over 22214 rows from the year 2000 to 2026
+Data - HR Data with over 22214 rows from the year 2000 to 2020
 
 Data Cleaning & Analysis - Postgrest pgAdmin 4 
 
