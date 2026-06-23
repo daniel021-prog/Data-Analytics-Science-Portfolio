@@ -1,3 +1,22 @@
+/*
+===============================================================================
+SQL Analytics Script: Comprehensive Retail & Customer Intelligence
+===============================================================================
+Author: [Daniel Mercedes]
+Database Engine: PostgreSQL (pgAdmin)
+
+This script demonstrates SQL capabilities by solving data 
+aggregation and segmentation problems. 
+
+Key SQL Features :
+  - Joins & Unions (Combining transactional and dimensional data)
+  - Common Table Expressions (CTEs) & Subqueries (Modular, readable logic)
+  - Window Functions (Analytical positioning, ranking, and running totals)
+  - Aggregation Functions & CASE Statements (Conditional business logic)
+  - Data Types & DDL Basics (Schema structure and type casting)
+===============================================================================
+*/
+
 ⭐ 1. JOINS y UNIONS
 
 select distinct category from product
@@ -20,8 +39,8 @@ select
 from sales s 
 join product p on p.product_id = s.product_id
 
-'Clientes que han comprado y clientes que no han comprado -LEFT JOIN + filtro'
-
+'Customers who have purchased and customers who have not purchased – LEFT JOIN + filter'
+   
 select * from customer c
 left join sales s on c.customer_id = s.customer_id
 where s.sales is null 
@@ -275,7 +294,7 @@ select
 from sales
 order by discount desc;
 
-'determine if a product is 'OFFICE', 'Tech' or 'Furniture''
+'Determine if a product is 'OFFICE', 'Tech' or Furniture'
 
 select 
     product_name,
@@ -307,17 +326,7 @@ join product p
     on s.product_id = p.product_id
 order by s.profit desc;
 
-⭐ 6. Optimización de Consultas
-
-'Use indexes to speed up search'
-
-create index idx_sales_customer_id
-on sales(customer_id);
-
-create index idx_sales_product_id
-on sales(product_id);
-
-⭐ 7. Data Types y DDL Basic 
+⭐ 6. Data Types y DDL Basic 
 
 'Create an audit table'
 
