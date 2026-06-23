@@ -1,3 +1,20 @@
+/*
+===============================================================================
+SQL Data Preparation Script: Looker Studio Dashboard Backend
+===============================================================================
+Database Engine: PostgreSQL (pgAdmin)
+Target Dashboard: Sales & Customer Performance Dashboard
+
+This script contains the core analytical queries developed to extract, aggregate, 
+and structure the data required for the interactive Looker Studio report. 
+
+Key SQL Features Demonstrated:
+  - Joins & Unions (Blending dimensional data for dashboard sync)
+  - Common Table Expressions (CTEs) & Subqueries (Structuring reporting layers)
+  - Window Functions (Calculating top-performing metrics and rankings)
+  - Aggregation Functions & CASE Statements (Defining business KPIs and segments)
+===============================================================================
+*/
 
 1.'Sales by region with JOINs'
 
