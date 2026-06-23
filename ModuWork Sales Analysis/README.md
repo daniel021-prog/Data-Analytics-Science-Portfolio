@@ -19,7 +19,7 @@ customer behavior patterns.
 ---
 
 ## 📁 Project Structure
-* **[SQL/](./SQL)**: Contains all the SQL scripts, queries, data aggregations, and relational database analyses executed in pgAdmin.
+* **[SQL/](./SQL)**: Contains all the SQL scripts, queries, data aggregations, relational database analyses executed in pgAdmin and dashboards made in Looker Studio
 * **[01. Data/](./01.Data)**: Source data files in CSV format (`01.customer.csv`, `02.product.csv`, `03.sales.csv`).
 
 ## 📊 Interactive Dashboard
