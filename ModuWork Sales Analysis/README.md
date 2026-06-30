@@ -71,7 +71,7 @@ Central regions.
 
 ---
 
-## 📊 Interactive Dashboard (Looker)
+## 📊 Interactive Dashboard (looker Studio)
 You can view the live, dynamic, and interactive report at the following link:
 👉 **[Looker Studio Live Dashboard](https://datastudio.google.com/s/usoeKXuaCL4)**
 
