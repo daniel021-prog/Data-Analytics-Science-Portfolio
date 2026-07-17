@@ -12,7 +12,7 @@ Welcome to my data analytics portfolio. This repository showcases projects focus
 ---
 ### 👥 1. HR Analytic Project
 *   **Description:** An exploratory People Analytics project designed to investigate employee attrition, determine key drivers of voluntary turnover, and propose actionable, data-backed retention strategies for HR departments.
-*   **Tools Used:** SQL, Exploratory Data Analysis (EDA).
+*   **Tools Used:** SQL, Exploratory Data Analysis (EDA), Leveraged advanced aggregations, grouping, conditional logic (CASE statements), and subqueries to calculate key organizational performance indicators..
 ---
 
 ### 💼 2. ModuWork Sales Analysis
