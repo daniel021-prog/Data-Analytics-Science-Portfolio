@@ -1,6 +1,6 @@
 /*
 ===============================================================================
-SQL Analytics Script: Comprehensive Retail & Customer Intelligence
+SQL Analytics Script: Comprehensive Retail & Customer Intelligence.
 ===============================================================================
 Author: [Daniel Mercedes]
 Database Engine: PostgreSQL (pgAdmin)
