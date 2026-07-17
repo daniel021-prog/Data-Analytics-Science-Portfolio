@@ -17,7 +17,8 @@ Welcome to my data analytics portfolio. This repository showcases projects focus
 
 ### 💼 2. ModuWork Sales Analysis
 *   **Description:** A strategic deep-dive into commercial performance and transactional sales data to uncover seasonal buying patterns, identify high-value customer segments, and discover revenue optimization opportunities.
-*   **Tools Used:** SQL, Exploratory Data Analysis (EDA).
+*   **Tools Used:** SQL, Exploratory Data Analysis (EDA). CTEs & Subqueries, Window Functions, JOINS & UNIONS, CASE Statements, Aggregation Functions
+
 ---
 
 ## 📁 Featured Projects
