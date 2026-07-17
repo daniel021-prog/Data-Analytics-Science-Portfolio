@@ -5,7 +5,7 @@ Welcome to my data analytics portfolio. This repository showcases projects focus
 ---
 ## 🛠️ Tech Stack & Skills
 
-*   **Languages & Libraries:** Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn), SQL.
+*   **Languages & Libraries:** SQL, Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn).
 *   **Business Domains:** Credit Risk Modeling, Sales Analytics, People Analytics (HR).
 *   **Methodologies:** Data Cleaning & Preprocessing, Feature Engineering (incorporating domain-specific logic), Predictive Modeling, and Business Metrics Evaluation.
 
