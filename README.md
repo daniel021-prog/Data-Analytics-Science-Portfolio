@@ -41,5 +41,5 @@ An industry-aligned, two-phase solution to evaluate the creditworthiness of cons
 
 I am always open to discussing data-driven opportunities, project collaborations, or sharing insights about risk modeling and analytics. 
 
-*   **LinkedIn:** [Your Name](https://www.linkedin.com/in/your-profile-url)
+*   **LinkedIn:**  https://www.linkedin.com/in/daniel-mercedes-563856a6
 *   **Email:** danel.mercedes021@gmail.com
