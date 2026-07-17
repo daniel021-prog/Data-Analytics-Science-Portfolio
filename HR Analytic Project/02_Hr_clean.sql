@@ -1,7 +1,7 @@
 /*
 Project: HR Analytics Dashboard
 Author: Daniel Mercedes
-Database: PostgreSQL
+Database: PostgreSQL.
 Description: Data model, cleaning, and analytical queries for Power BI dashboard.
 */
 
