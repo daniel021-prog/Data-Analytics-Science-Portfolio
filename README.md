@@ -27,10 +27,12 @@ Welcome to my data analytics portfolio. This repository showcases projects focus
 An industry-aligned, two-phase solution to evaluate the creditworthiness of consumer loan portfolios (using Lending Club data) from the perspective of a Chief Risk Officer (CRO).
 
 * 3.Credit Scoring Classifier (`Credit Risk Classification.ipynb`)**
+  
     *   **Objective:** Predict the probability of a customer defaulting on their loan.
     *   **Key Techniques:** Domain-specific feature engineering (such as imputing missing values with logical flags based on risk grades), class imbalance handling, and model training/comparison (`LogisticRegression`, `RandomForestClassifier`, `DecisionTreeClassifier`).
       
 * 4. Expected Loss Estimation (`Credit Risk Expected Loss.ipynb`)**
+     
     *   **Objective:** Quantify the actual financial risk impact of the portfolio using the standard Basel regulatory formula:
         $$EL = PD \times LGD \times EAD$$
     *   **Key Techniques:** Modeling Loss Given Default ($LGD$) by filtering out financial anomalies, estimating Exposure at Default ($EAD$), and calculating the final Expected Loss ($EL$) to drive portfolio acquisition decisions.
